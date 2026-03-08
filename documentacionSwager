@@ -1,6 +1,6 @@
 http://localhost:8080/swagger-ui/index.html#/perfil-controller/getByUsuarioId
 http://localhost:8080/v3/api-docs
-
+https://backend-ayd2-proyecto1-aaftcrepd3gtgmfm.centralus-01.azurewebsites.net/swagger-ui/index.html   *******back en linea**********
 
 
 hacer deploying al backend desde consola:
