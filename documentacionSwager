@@ -1,0 +1,12 @@
+http://localhost:8080/swagger-ui/index.html#/perfil-controller/getByUsuarioId
+http://localhost:8080/v3/api-docs
+
+
+
+hacer deploying al backend desde consola:
+HACER CLEAND AND BUILD
+mvn azure-webapp:deploy
+
+
+EN FRONT END LA RAMA DESPLEGADA ES LA FEATURE, REALIZAR CAMBIOS EN MAIN QUE ES LA RAMA LOCAL, LUEGO HACER MERGE DESDE FEATURE, AL HACER PUSH SE DESPLIEGA AUTOMATICAMENTE
+git push origin feature
